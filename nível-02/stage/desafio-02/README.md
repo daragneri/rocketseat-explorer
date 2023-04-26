@@ -33,7 +33,7 @@ Este é o <a href="https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---
       <img src="https://github.com/daaragneri.png" width="100px" />
     </td>
     <td>
-      Feito por <a href="https://github.com/lucyanovidio">Lucyan Ovídio.</a> 🙋🏿‍♂️
+      Feito por <a href="https://github.com/daragneri">Dara Neri</a>
     </td>
   </tr>
 </table>
