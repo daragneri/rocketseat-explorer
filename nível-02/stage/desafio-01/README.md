@@ -41,8 +41,7 @@ Este é o <a href="https://www.figma.com/file/SteT6NkV7LHlj9mt1OlXtG/Explorer---
     </td>
     <td>
       Feito por <a href="https://github.com/daragneri">Dara</a> 🥰
-      <br> Junto com <a href="https://rocketseat.com.br">Rocketseat</a> 🚀.
-      
+      <br> Junto com <a href="https://rocketseat.com.br">Rocketseat</a> 🚀.      
     </td>
   </tr>
 </table>
