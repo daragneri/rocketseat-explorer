@@ -2,18 +2,19 @@
 
 <img src="./.github/preview-desafio-01.jpg" alt="Preview do projeto."/>
 
-* <a href="">Acesse aqui.</a>
+- <a href="">Acesse aqui.</a>
 
 ## 💻 O desafio
 
 Móveis customizados é uma página web simples para uma empresa fictícia de venda de móveis. Nesse projeto aprendi um pouco sobre:
-* Introdução ao HTML5: tags, atributos e etc;
-* Introdução ao CSS3: seletores e propriedades;
-* Figma básico;
-* Box Model;
-* Dev Tools;
-* Uso do <a href="https://fonts.google.com">Google Fonts</a>;
-* Utilizar o <a href="https://codepen.io">Codepen</a> e o Github para enviar projetos.
+
+- Introdução ao HTML5: tags, atributos e etc;
+- Introdução ao CSS3: seletores e propriedades;
+- Figma básico;
+- Box Model;
+- Dev Tools;
+- Uso do <a href="https://fonts.google.com">Google Fonts</a>;
+- Utilizar o <a href="https://codepen.io">Codepen</a> e o Github para enviar projetos.
 
 ## 🎨 Layout do projeto
 
@@ -42,7 +43,6 @@ Este é o <a href="https://www.figma.com/file/SteT6NkV7LHlj9mt1OlXtG/Explorer---
     <td>
       Feito por <a href="https://github.com/daragneri">Dara</a> 🥰
       <br> Junto com <a href="https://rocketseat.com.br">Rocketseat</a> 🚀.
-      
     </td>
   </tr>
 </table>

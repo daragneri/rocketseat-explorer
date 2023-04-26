@@ -24,7 +24,7 @@ body {
 
 #hero {
   width: 592px;
-  margin: 0 auto 72px;
+  margin: 0 auto 62px;
 }
 
 #hero img {
@@ -60,6 +60,8 @@ footer {
   width: 592px;
   margin: 0 auto;
   padding-top: 12px;
+
+  padding-bottom: 24px;
 }
 
 footer a {
