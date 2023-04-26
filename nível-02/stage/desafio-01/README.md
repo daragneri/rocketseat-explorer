@@ -42,11 +42,7 @@ Este é o <a href="https://www.figma.com/file/SteT6NkV7LHlj9mt1OlXtG/Explorer---
     </td>
     <td>
       Feito por <a href="https://github.com/daragneri">Dara</a> 🥰
-<<<<<<< HEAD
       <br> Junto com <a href="https://rocketseat.com.br">Rocketseat</a> 🚀.
-=======
-      <br> Junto com <a href="https://rocketseat.com.br">Rocketseat</a> 🚀.      
->>>>>>> d2fa593849f9392aeab5a10ff574e1c2cd8605db
     </td>
   </tr>
 </table>
