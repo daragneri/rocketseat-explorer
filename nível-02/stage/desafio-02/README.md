@@ -30,7 +30,7 @@ Este é o <a href="https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---
 <table>
   <tr>
     <td>
-      <img src="https://github.com/daaragneri.png" width="100px" />
+      <img src="https://github.com/daragneri.png" width="100px" />
     </td>
     <td>
       Feito por <a href="https://github.com/daragneri">Dara Neri</a>
