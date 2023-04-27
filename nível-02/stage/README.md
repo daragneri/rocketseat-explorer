@@ -6,7 +6,7 @@ Este módulo é sobre: estruturação de forma semântica, utilização do Figma
 
 Nele foram desenvolvidos 4 desafios para prática desses conceitos:
 
-* <a href="">1. Móveis costumizados</a>
-* <a href="">2. Treine.me</a>
-* <a href="">3. Treine.me - Corrigindo bugs</a>
-* <a href="">4. Rocket.sect</a>
+- <a href="https://github.com/daragneri/rocketseat-explorer/tree/main/n%C3%ADvel-02/stage/desafio-01">1. Móveis custumizados</a>
+- <a href="https://github.com/daragneri/rocketseat-explorer/tree/main/n%C3%ADvel-02/stage/desafio-02">2. Móveis customizados corrigindo bugs</a>
+- <a href="https://github.com/daragneri/rocketseat-explorer/tree/main/n%C3%ADvel-02/stage/desafio-03">3. Seu destino</a>
+- <a href="">4. Rocket.sect</a>
