@@ -18,20 +18,34 @@ body {
   font-family: 'Open Sans';
 
   text-align: center;
+
+  display: flex;
+  flex-direction: column;
+  height: 100%;
 }
 
 .hero {
-  max-width: 540px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  max-width: 626px;
 
-  margin: 0 auto 32px;
+  margin: 0 auto 48px;
 
   padding: 0 16px;
 }
-
-.hero img {
-  width: 80%;
+.hero figure {
+  width: 100%;
   max-width: 350px;
-  margin: 48px auto 24px;
+
+  margin: 48px auto 32px;
+}
+
+.hero figure img {
+  width: 100%;
+  max-width: 350px;
+  margin: 48px auto 32px;
 }
 
 h1 {
@@ -52,6 +66,11 @@ p {
   font-weight: 400;
   font-size: 15px;
   line-height: 22px;
+  text-align: center;
+}
+
+p strong {
+  color: var(--title-color);
 }
 
 .line {
@@ -70,6 +89,10 @@ a {
 
 a:hover {
   filter: brightness(1.5);
+}
+
+footer {
+  margin-top: auto;
 }
 
 footer a + a {
