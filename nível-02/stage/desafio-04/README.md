@@ -1,6 +1,6 @@
 # Desafio 4 - Treine.me ✅
 
-<img src="./.github/preview-desafio-03.png" alt="Preview do projeto." />
+<img src="./.github/preview-desafio-04.png" alt="Preview do projeto." />
 
 - <a href="">Acesse aqui.</a>
 
