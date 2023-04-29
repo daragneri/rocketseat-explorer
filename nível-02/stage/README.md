@@ -10,3 +10,4 @@ Nele foram desenvolvidos 4 desafios para prática desses conceitos:
 - <a href="https://github.com/daragneri/rocketseat-explorer/tree/main/n%C3%ADvel-02/stage/desafio-02">2. Móveis customizados corrigindo bugs</a>
 - <a href="https://github.com/daragneri/rocketseat-explorer/tree/main/n%C3%ADvel-02/stage/desafio-03">3. Seu destino</a>
 - <a href="https://github.com/daragneri/rocketseat-explorer/tree/main/n%C3%ADvel-02/stage/desafio-04">4. Treine.me</a>
+- <a href="https://github.com/daragneri/rocketseat-explorer/tree/main/n%C3%ADvel-02/stage/desafio-05">5. Rocket.sect</a>
