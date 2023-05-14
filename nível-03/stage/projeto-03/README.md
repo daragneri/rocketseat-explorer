@@ -1,4 +1,4 @@
-# Projeto 04 - Mentoria ✅
+# Projeto 03 - Crie seu evento ✅
 
 <img src="./.github/preview-projeto-03.png" alt="Preview do projeto." />
 
@@ -6,7 +6,7 @@
 
 ## 💻 O desafio
 
-Nesse desafio, recriei um formulário simples de Mentorias a partir de um layout pronto no Figma para fortalecer alguns conceitos aprendidos nessa aula, entre eles:
+Nesse desafio, recriei um formulário simples para criar eventos a partir de um layout pronto no Figma para fortalecer alguns conceitos aprendidos nessa aula, entre eles:
 
 - Inputs e labels;
 - Fieldset e legend;
