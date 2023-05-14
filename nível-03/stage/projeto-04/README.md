@@ -1,6 +1,6 @@
 # Projeto 04 - Mentoria ✅
 
-<img src="./.github/preview-projeto-03.png" alt="Preview do projeto." />
+<img src="./.github/preview-projeto-04.png" alt="Preview do projeto." />
 
 - <a href="">Acesse aqui.</a>
 
@@ -13,6 +13,10 @@ Nesse desafio, recriei um formulário simples de Mentorias a partir de um layo
 - Checkbox customizado;
 - Campo select;
 - Validar campos e submeter formulários.
+
+## 🎨 Layout do projeto
+
+Este é o <a href="https://www.figma.com/file/Nws1KWB7DyXBw8L6wXb9mp/Stage-03---Formul%C3%A1rio-intermedi%C3%A1rio/duplicate">layout do projeto</a> no Figma.
 
 ## 🛠 Tecnologias
 
