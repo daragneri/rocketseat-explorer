@@ -1,4 +1,4 @@
-# Projeto 05 - Avaliando sua mentoria ✅
+# Projeto 06 - Introdução à Responsividade ✅
 
 <img src="./.github/preview-projeto-06.png" alt="Preview do projeto." />
 
