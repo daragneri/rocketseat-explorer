@@ -1,7 +1,7 @@
 # Projeto 07 - Componente Trabalhos ✅
 
-<img src="./.github/preview-projeto-06.png" alt="Preview do projeto." />
-<img src="./.github/preview-02-projeto-06.png" alt="Preview do projeto." />
+<img src="./.github/preview-projeto-07.png" alt="Preview do projeto." />
+<img src="./.github/preview-02-projeto-07.png" alt="Preview do projeto." />
 
 - <a href="#">Acesse aqui.</a>
 
