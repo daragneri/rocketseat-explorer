@@ -1,7 +1,7 @@
 # Projeto 08 - Space Cream ✅
 
-<img src="./.github/preview-projeto-07.png" alt="Preview do projeto." />
-<img src="./.github/preview-02-projeto-07.png" alt="Preview do projeto." />
+<img src="./.github/preview-projeto-08.png" alt="Preview do projeto." />
+<img src="./.github/preview-02-projeto-08.png" alt="Preview do projeto." />
 
 - <a href="#">Acesse aqui.</a>
 
